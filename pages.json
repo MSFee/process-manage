@@ -5,6 +5,18 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path":"pages/main/index",
+			"style": {
+				"navigationBarBackgroundColor":"#8F8F94"
+			}
+		},
+		{
+			"path":"pages/user/index",
+			"style": {
+				"navigationBarBackgroundColor":"#2C405A"
+			}
 		}
 	],
 	"globalStyle": {
